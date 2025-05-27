@@ -1,9 +1,4 @@
 # BuildingInPublic
-Building in Public Repo
-
-Here’s your GitHub README formatted cleanly and clearly:
-
----
 
 # 🏗️ Building in Public: My AWS-Powered Pet Project Journey
 
